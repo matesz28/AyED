@@ -1,7 +1,9 @@
 #include <iostream>
-using namespace:
+using namespace std;
 
-main(){
+int main (){
+    string cursor;
   cout<<"Hola Mundo, soy Mateo Ramirez de K1043"<<endl;
+  cin>>cursor;
 return 0;
 }
